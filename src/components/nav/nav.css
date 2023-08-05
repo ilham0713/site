@@ -1,0 +1,29 @@
+.nav-btn{
+    background: none;
+    color: var(--bgcolorprim);
+    margin-right: 1rem;
+}
+
+/* Socials */
+.nav-socials{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.8rem;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    /* font-family: 'Tektur', cursive; */
+}
+
+.nav-h5{
+    font: .4rem;
+    align-items: center;
+}
+
+/* .nav-socials::after{
+    content: '';
+    width: 1px;
+    height: 2rem;
+    background: var(--bgcolorprim);
+} */
