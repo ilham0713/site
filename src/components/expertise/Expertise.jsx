@@ -14,26 +14,27 @@ const Expertise = () => {
             <h2>
                 What am I good at?
             </h2>
-            <div className="expert-content">
-                <div className = "about-cards">
-                    <article classname = "about_card">
-                        <HiDesktopComputer className='about-icon'/>
-                        <h5>Back-End</h5>
-                        <small>3+ years</small>
+            <div className = 'about_content'>
+                <div className = 'about__cards'>
+                    <article classname = 'about__card'>
+                        <HiDesktopComputer size = {20} className='about-icon'/>
+                        <h2>Back-End</h2>
+                        <p>Java, C, Python</p> 
+                        <p>SQL, PHP, Git, Github,</p>
+                        <p>Postman, MongoDB</p>
                     </article>
-                    <article classname = "about_card">
-                        <DiReact className='about-icon'/>
-                        <h5>Front-End</h5>
-                        <small>2+ years</small>
-                        {/* <p>dhsfihwfhiwhfwehuwehuiewhfeuiwhfuwehfuwehfuewhfwjehwfucehwnufewhfihwfwjdhfuwehfuwehuewjuwjewjuewufuwejfewf
-                            fehwfhuewhfuwehfeefhfjewhfnhiwbfwe
-                        </p> */}
+                    <article classname = 'about__card'>
+                        <DiReact size = {25} className='about-icon'/>
+                        <h2>Front-End</h2>
+                        <p> React.js, JavaScript, </p> 
+                        <p> HTML, CSS TypeScript</p>
+                        <p> Docusaurus, PowerBI,</p>
+                        <p> Adobe Analytics</p>
+                         
                     </article>
-                    <article classname = "about_card">
-                        <BsFillClipboardCheckFill className='about-icon'/>
-                        <h5>Frameworks and Applications</h5>
-                        <small>3+ years</small>
-                    </article>
+                    {/* <article classname = "about__card">
+                        <h2><BsFillClipboardCheckFill size = {20} className='about-icon margin-h-r'/>  Frameworks and Applications</h2>
+                    </article> */}
                 </div>
             </div>
 

@@ -60,6 +60,7 @@ h1{
 
 section {
     margin-top: 8rem;
+    text-align: center;
 }
 
 section > h2, section > h5 {
@@ -115,6 +116,10 @@ a:hover {
 
 .margin-1-r{
     margin-right: 1rem;
+}
+
+.margin-h-r{
+    margin-right: .5rem;
 }
 .margin-1-b{
     margin-bottom: 1rem;
