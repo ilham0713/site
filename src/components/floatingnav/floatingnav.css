@@ -30,6 +30,12 @@ floatingnav a:hover{
 floatingnav a.active{
     background: var(--bgcolorwhite);
     color: var(--bgcolor)
-
 }
+
+/* @media screen and (max-width: 1024px){
+}
+
+
+@media screen and (max-width: 600px){
+} */
 /*tryag floating nav placement is shit move it up*/

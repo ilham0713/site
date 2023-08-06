@@ -12,9 +12,9 @@ font-family: 'Tektur', cursive;*/
 }
 
 :root{
-    --bgcolor: #1f1f38;
-    --bgcolorvar:#2c2c6c;
-    --bgcolorprim:#4db5ff;
+    --bgcolor: #1a1a1b;
+    --bgcolorvar:#0d0d0e;
+    --bgcolorprim: rgb(7, 177, 177);
     --bgcolorprimvar:rgba(77,181, 255, 0.4);
     --bgcolorwhite:#fff;
     --bgcolorlight:rgba(255, 255, 255, 0.6);

@@ -21,15 +21,15 @@ const Contact = () => {
                     <article className="contact__option">
                         <AiTwotoneMail className='contact__option-icon'/>
                         <h4>Email</h4>
-                        <h5>mukatilham@gmail.com</h5>
+                        <h5 className='wrap'>mukatilham@gmail.com</h5>
                         <a href = "mailto:mukatilham@gmail.com<">Send email</a>
                     </article>
                 </div>
                 {/* end of contact options */}
                 <form ref={form} onSubmit = {sendEmail}>
-                    <input type = "text" name = 'name' placeholder = 'full name' required/>
+                    <input type = "text" name = 'name' placeholder = 'Full name' required/>
                     <input type = "text" email = 'email' placeholder = 'Your Email' required/>
-                    <textarea name= "message" rows = "7" placeholder = 'message here' required></textarea>
+                    <textarea name= "message" rows = "7" placeholder = 'Message here' required></textarea>
                     <button type = "submit" className= "btn btn-prim">Send</button>
                 </form>
 
