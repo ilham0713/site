@@ -19,7 +19,6 @@ floatingnav a{
     padding: 0.9rem;
     border-radius: 50%;
     display: flex;
-    /*fill: var(--bgcolorlight);*/
     color: var(--bgcolorlight);
     font-size: 1.1rem;
 }
@@ -29,9 +28,8 @@ floatingnav a:hover{
 }
 
 floatingnav a.active{
-    background: var(--bgcolor);
-    /* fill: var(--bgcolorwhite) */
-    color: var(--bgcolorwhite)
+    background: var(--bgcolorwhite);
+    color: var(--bgcolor)
 
 }
 /*tryag floating nav placement is shit move it up*/

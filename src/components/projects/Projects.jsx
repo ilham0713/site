@@ -6,7 +6,6 @@ import path from '../../assets/path.png';
 import scro from '../../assets/scro.png';
 import rec from '../../assets/rec.png';
 
-
 const Projects = () => {
     return (
         <section id = 'projects'>
