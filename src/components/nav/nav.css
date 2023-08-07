@@ -31,7 +31,7 @@
 /*tryag remove the top nav on cellular devices*/
 
 @media screen and (max-width: 1024px){
-    nav {
+    .nav-btn{
         display: none;
     }
 }
