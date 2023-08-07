@@ -35,9 +35,9 @@ header{
 }
 
 @media screen and (max-width: 600px){
-    header{
+    /* header{
         height: 100vh;
-    }
+    } */
     /* .head-socials,*/
     .scroll-down{ 
         display: none;
