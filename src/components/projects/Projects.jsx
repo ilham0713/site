@@ -22,15 +22,6 @@ const Projects = () => {
                 </article>
                 <article className='port_item'>
                     <div className="port-item-image">
-                        <img src = {path} alt=""/>
-                    </div>
-                    <h3>Pathfinding Visualizer</h3>
-                    <div className='port-img-cta'>
-                        <a href = "https://github.com/" className='btn' target = '_blank'>Github</a>
-                    </div>
-                </article>
-                <article className='port_item'>
-                    <div className="port-item-image">
                         <img src = {face} alt=""/>
                     </div>
                     <h3>Superhero Correspondence</h3>
@@ -40,11 +31,11 @@ const Projects = () => {
                 </article>
                 <article className='port_item'>
                     <div className="port-item-image">
-                        <img src = {scro} alt=""/>
+                        <img src = {path} alt=""/>
                     </div>
-                    <h3>Scroggle</h3>
+                    <h3>Pathfinding Visualizer</h3>
                     <div className='port-img-cta'>
-                        <a href = "https://github.com/ilham0713/Scroggle" className='btn' target = '_blank'>Github</a>
+                        <a href = "https://github.com/" className='btn' target = '_blank'>Github</a>
                     </div>
                 </article>
                 <article className='port_item'>
@@ -54,6 +45,15 @@ const Projects = () => {
                     <h3>Recursive Descent Parser</h3>
                     <div className='port-img-cta'>
                         <a href = "https://github.com/ilham0713/Recursive-Descent-Parser" className='btn' target = '_blank'>Github</a>
+                    </div>
+                </article>
+                <article className='port_item'>
+                    <div className="port-item-image">
+                        <img src = {scro} alt=""/>
+                    </div>
+                    <h3>Scroggle</h3>
+                    <div className='port-img-cta'>
+                        <a href = "https://github.com/ilham0713/Scroggle" className='btn' target = '_blank'>Github</a>
                     </div>
                 </article>
                 {/* <article className='port_item'>
