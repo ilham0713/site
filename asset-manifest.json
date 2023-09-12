@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "https://ilham0713.github.io/site/static/css/main.bee4697d.css",
-    "main.js": "https://ilham0713.github.io/site/static/js/main.0aee76a1.js",
+    "main.js": "https://ilham0713.github.io/site/static/js/main.e40ed9eb.js",
     "static/media/scro.png": "https://ilham0713.github.io/site/static/media/scro.e6f9cdf6e51073b9294e.png",
+    "static/media/rec.png": "https://ilham0713.github.io/site/static/media/rec.220354fcfd120fa98085.png",
     "static/media/res.pdf": "https://ilham0713.github.io/site/static/media/res.8ea85404499b3cf40bad.pdf",
-    "static/media/rec.png": "https://ilham0713.github.io/site/static/media/rec.e7abe3f51cf5e3e2f4c1.png",
     "static/media/face.png": "https://ilham0713.github.io/site/static/media/face.17f489f9c10762bf9ea2.png",
-    "static/media/curb.png": "https://ilham0713.github.io/site/static/media/curb.ab8d727df8c96311aac0.png",
+    "static/media/curb.png": "https://ilham0713.github.io/site/static/media/curb.cb57ef6c0097b0580edf.png",
     "static/media/path.png": "https://ilham0713.github.io/site/static/media/path.450fe3a4b00643d61b47.png",
     "index.html": "https://ilham0713.github.io/site/index.html",
     "main.bee4697d.css.map": "https://ilham0713.github.io/site/static/css/main.bee4697d.css.map",
-    "main.0aee76a1.js.map": "https://ilham0713.github.io/site/static/js/main.0aee76a1.js.map"
+    "main.e40ed9eb.js.map": "https://ilham0713.github.io/site/static/js/main.e40ed9eb.js.map"
   },
   "entrypoints": [
     "static/css/main.bee4697d.css",
-    "static/js/main.0aee76a1.js"
+    "static/js/main.e40ed9eb.js"
   ]
 }
