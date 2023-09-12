@@ -61,7 +61,7 @@ const Projects = () => {
                     <div className="port-item-image">
                         <img src = {work} alt=""/>
                     </div>
-                    <h3>Workout Buddy</h3>
+                    <h3>Sweat Tracker</h3>
                     <div className='port-img-cta'>
                         <a href = "https://github.com/ilham0713/Workout-App" className='btn' target = '_blank'>Github</a>
                     </div>
