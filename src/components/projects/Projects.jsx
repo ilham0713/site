@@ -35,7 +35,7 @@ const Projects = () => {
                     </div>
                     <h3>Pathfinding Visualizer</h3>
                     <div className='port-img-cta'>
-                        <a href = "https://github.com/" className='btn' target = '_blank'>Github</a>
+                        <a href = "https://github.com/ilham0713/pathfinding-visualizer" className='btn' target = '_blank'>Github</a>
                     </div>
                 </article>
                 <article className='port_item'>
