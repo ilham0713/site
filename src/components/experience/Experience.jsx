@@ -20,6 +20,14 @@ const Experience = () => {
                         </article>
                         <article className = "experience__details">
                             <DiGitCommit className = "experience__details_icons"/>
+                            <h4>Golang</h4>
+                        </article>
+                        <article className = "experience__details">
+                            <DiGitCommit className = "experience__details_icons"/>
+                            <h4>Amazon DynamoDB</h4>
+                        </article>
+                        <article className = "experience__details">
+                            <DiGitCommit className = "experience__details_icons"/>
                             <h4>SQL</h4>
                         </article>
                         <article className = "experience__details">
@@ -58,7 +66,7 @@ const Experience = () => {
                         </article>
                         <article className = "experience__details">
                             <DiGitCommit className = "experience__details_icons"/>
-                            <h4>TypeScript</h4>
+                            <h4>Tailwind CSS</h4>
                         </article>
                         <article className = "experience__details">
                             <DiGitCommit className = "experience__details_icons"/>
@@ -74,11 +82,11 @@ const Experience = () => {
                         </article>
                         <article className = "experience__details">
                             <DiGitCommit className = "experience__details_icons"/>
-                            <h4>Docusaurus</h4>
+                            <h4>React Native</h4>
                         </article>
                         <article className = "experience__details">
                             <DiGitCommit className = "experience__details_icons"/>
-                            <h4>PowerBI</h4>
+                            <h4>Bootstrap</h4>
                         </article>
                         <article className = "experience__details">
                             <DiGitCommit className = "experience__details_icons"/>
