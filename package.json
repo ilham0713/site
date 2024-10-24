@@ -22,7 +22,7 @@
   "test": "react-scripts test",
   "eject": "react-scripts eject",
    "predeploy": "npm run build",
-  "deploy": "gh-pages -d build && echo 'www.mycustomdomain.com' > build/CNAME"
+  "deploy": "gh-pages -d build && echo 'www.mukatilham.com' > build/CNAME"
 },
   "eslintConfig": {
     "extends": [
